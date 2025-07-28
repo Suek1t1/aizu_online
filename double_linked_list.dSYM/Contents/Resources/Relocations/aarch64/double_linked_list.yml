@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/sueyoshi/授業関係/aizu_online/double_linked_list"
+relocations:     []
+...
